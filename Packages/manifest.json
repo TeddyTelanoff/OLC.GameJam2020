@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "com.unity.render-pipelines.high-definition": "8.2.0"
+  }
+}
