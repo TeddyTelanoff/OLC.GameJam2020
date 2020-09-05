@@ -1,2 +1,2 @@
 ﻿  Source.cpp
-  OLC-GameJam-2020.vcxproj -> C:\Users\Teddy\Documents\GitHub\OLC-GameJam-2020\OLC-GameJam-2020\Debug\OLC-GameJam-2020.exe
+C:\Users\Teddy\Documents\GitHub\OLC-GameJam-2020\OLC-GameJam-2020\Source.cpp(47,1): error C2296: '|': illegal, left operand has type 'float'
